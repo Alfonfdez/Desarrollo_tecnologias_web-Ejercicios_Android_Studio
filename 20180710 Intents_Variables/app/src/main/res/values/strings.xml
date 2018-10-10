@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intents_Variables</string>
+    <string name="edit_text">Escribe aquí</string>
+    <string name="btn">ABRIR</string>
+    <string name="btn1">COMPARTIR</string>
+    <string name="btn2">ENVIAR E-MAIL</string>
+    <string name="btn3">ABRIR WEB</string>
+    <string name="btn4">ABRIR MAPS</string>
+    <string name="btn5">GUARDAR PREFERENCES</string>
+    <string name="btn6">MOSTRAR Nº VECES Main2Activity</string>
+</resources>

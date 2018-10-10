@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">layout3</string>
+    <string name="et_name">Name</string>
+    <string name="et_mail">E-mail</string>
+    <string name="et_phone">Phone</string>
+    <string name="et_password">Password</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="message_saved">Saved</string>
+    <string name="message_empty">Some elements are empty</string>
+
+</resources>

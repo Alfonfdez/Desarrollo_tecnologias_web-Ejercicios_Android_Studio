@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">layout3</string>
+    <string name="et_name">Nom</string>
+    <string name="et_mail">E-mail</string>
+    <string name="et_phone">Telèfon</string>
+    <string name="et_password">Contrasenya</string>
+    <string name="et_data">Data</string>
+    <string name="btn_save">Desar</string>
+    <string name="btn_cancel">Cancel·lar</string>
+    <string name="message_saved">Guardat correctament</string>
+    <string name="message_empty">Algún dels camps esta buit</string>
+    <string name="dialog_text">Segur que vols esborrar totes les dades?</string>
+    <string name="btn_yes">Si</string>
+    <string name="btn_no">No</string>
+</resources>

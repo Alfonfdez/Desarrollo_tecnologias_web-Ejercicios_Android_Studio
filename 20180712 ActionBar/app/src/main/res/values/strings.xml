@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="add">Add</string>
+    <string name="reset">Reset</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="about_toast">This ActionBar tutorial comes from: https://www.journaldev.com/9357/android-actionbar-example-tutorial</string>
+</resources>

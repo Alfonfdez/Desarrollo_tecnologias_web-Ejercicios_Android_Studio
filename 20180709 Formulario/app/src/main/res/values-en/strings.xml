@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Form</string>
+    <string name="nom">Name</string>
+    <string name="correo">Email</string>
+    <string name="tlfno">Phone</string>
+    <string name="password">Password</string>
+    <string name="date">Date</string>
+    <string name="escribe_nom">Type Name</string>
+    <string name="escribe_correo">Type Email</string>
+    <string name="escribe_tlfno">Type Phone</string>
+    <string name="escribe_password">Type Password</string>
+    <string name="escribe_fecha">Choose the date</string>
+    <string name="guardar">SAVE</string>
+    <string name="borrar">DELETE</string>
+    <string name="alert">Are you sure to delete the info?</string>
+    <string name="btn_si">YES</string>
+    <string name="btn_no">NO</string>
+</resources>

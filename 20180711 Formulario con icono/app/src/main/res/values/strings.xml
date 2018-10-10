@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="nom">Nombre</string>
+    <string name="correo">Email</string>
+    <string name="tlfno">Teléfono</string>
+    <string name="password">Contraseña</string>
+    <string name="date">Fecha</string>
+    <string name="escribe_nom">Escribe Nombre</string>
+    <string name="escribe_correo">Escribe Email</string>
+    <string name="escribe_tlfno">Escribe Teléfono</string>
+    <string name="escribe_password">Escribe Contraseña</string>
+    <string name="escribe_fecha">Seleccione la fecha</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="borrar">BORRAR</string>
+    <string name="alert">¿Estás seguro de borrar los datos?</string>
+    <string name="btn_si">SÍ</string>
+    <string name="btn_no">NO</string>
+</resources>

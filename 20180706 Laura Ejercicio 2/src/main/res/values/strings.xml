@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layouts1</string>
+    <string name="write_name">Escribe el nombre</string>
+    <string name="text_btnok">Aceptar</string>
+    <string name="text_btncancel">Cancelar</string>
+    <string name="editext_name">Hola NOMBRE! ¿Qué tal?</string>
+</resources>
